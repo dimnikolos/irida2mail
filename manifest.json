@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Email Button Extension",
+  "name": "irida2mail",
   "version": "1.0",
-  "description": "Adds a button to send an email using mailto link.",
+  "description": "Adds a button to IRIDA to send an email using mailto link.",
   "permissions": [
     "activeTab",
     "scripting"
